@@ -1,7 +1,7 @@
 {
 	"name": "Universal link testing",
 	"description": "Sample for testing out universal links",
-	"repository": "https://git.heroku.com/rw-universal-links.git",
-	"logo": "https://rw-universal-links.herokuapp.com/logo.png",
+	"repository": "https://git.heroku.com/caponeuniversallink.git",
+	"logo": "https://caponeuniversallink.herokuapp.com/logo.png",
 	"keywords": ["SBC", "universal links"]
 }
