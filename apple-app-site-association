@@ -5,6 +5,10 @@
 			{
 				"appID": "HMX2K3M68V.capone.CapOneUniversal",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "HMX2K3M68V.capone.CapOneUniversalTwo",
+				"paths": [ "*"]
 			}
 		]
 	}
